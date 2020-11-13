@@ -1,5 +1,8 @@
-### Hi there 👋 This is Emma
-
+### 
+Hi there 👋 This is Emma
+My lastname is Left,a strange but special word
+I’m A Chinese college girl who is currently struggling with Group Workshop 
+Hope I can survive 🤔
 <!--
 **EmmaZoeLeft/EmmaZoeLeft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 我的大名是左梓仪，有一条传统广东舌头
-### 不吃辣不吃咸，最爱清蒸和水煮。【鲜】，是我最追捧的味道！
-### 虽说有很多辣味美食尝试不了，但口味清淡还是很有好处的，起码能让你有一个可控的皮肤质量哈哈哈
-### 希望大家以后吃到啥好吃的粤菜店都能推荐给我，谢谢！
 
-### ⚡ Fun fact: crazy hp fan ,loyal fan of Imagine Dragons
+⚡ Fun fact: crazy hp fan ,loyal fan of Imagine Dragons
