@@ -1,8 +1,8 @@
 ### 
-Hi there 👋 This is Emma
-My lastname is Left,a strange but special word
-I’m A Chinese college girl who is currently struggling with Group Workshop 
-Hope I can survive 🤔
+Hi there 👋 This is Emma  
+My lastname is Left,a strange but special word  
+I’m A Chinese college girl who is currently struggling with Group Workshop  
+Hope I can survive 🤔  
 <!--
 **EmmaZoeLeft/EmmaZoeLeft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
